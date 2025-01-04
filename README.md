@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I am a 👨‍💻 Final-year Computer Science undergrad specializing in Artificial Intelligence and Machine Learning, with a strong passion for building seamless digital experiences. From crafting dynamic frontends with modern frameworks to exploring the depths of ML algorithms, I thrive at the intersection of technology and innovation. 🌟 With hands-on experience in full-stack development and a long-term vision of becoming an AI Scientist, I’m driven to turn complex ideas into impactful solutions. 🚀 Let’s collaborate and create the future, one project at a time!</p>
+<p align="left">I am a 👨‍💻 Final-year Computer Science undergrad specializing in Artificial Intelligence and Machine Learning, with a strong passion for building seamless digital experiences. From crafting dynamic frontends with modern frameworks to exploring the depths of ML algorithms, I thrive at the intersection of technology and innovation. 🌟 With hands-on experience in full-stack development and a long-term vision of becoming an AI Scientist, I’m driven to turn complex ideas into impactful solutions. 🚀 Let’s collaborate and create the future, one project at a time! </p>
 
 ###
 
